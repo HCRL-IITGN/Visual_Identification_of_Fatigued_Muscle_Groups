@@ -2,7 +2,7 @@
 
 This repository contains the official implementation for our ICRA 2026 paper on simulation-driven identification of fatigued upper-limb muscle groups using musculoskeletal simulation and motion analysis.
 
-![Framework](assets/framework.png)
+![Framework](ICRA26_Graphical_Abstract.png)
 
 ## Features
 
